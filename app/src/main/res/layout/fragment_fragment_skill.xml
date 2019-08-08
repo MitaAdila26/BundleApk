@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gambar"
+    tools:context=".FragmentSkill">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="bbb"
+        android:id="@+id/txt_nama3"
+        android:textColor="@color/color2"
+        android:textSize="13pt"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="bbb"
+        android:id="@+id/txt_asalsekolah"
+        android:textColor="@color/color2"
+        android:textSize="13pt"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="bbb"
+        android:textColor="@color/color2"
+        android:id="@+id/txt_kompetensi"
+        android:textSize="13pt"/>
+
+</LinearLayout>
